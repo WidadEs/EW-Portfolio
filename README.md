@@ -16,8 +16,8 @@
         header {
             background-color: #0056b3;
             color: white;
-            padding: 20px 0;
-            text-align: center;
+            padding: 20px;
+            text-align: left;
             position: relative;
         }
         header img {
@@ -27,15 +27,16 @@
             object-fit: cover;
             border: 5px solid white;
             position: absolute;
-            left: 50%;
-            transform: translateX(-50%);
+            right: 20px;
             top: 20px;
         }
         header h1 {
-            margin: 180px 0 10px;
+            margin: 0 0 10px;
+            padding-right: 180px; /* Adjust padding to prevent overlap with the image */
         }
         header p {
             margin: 0;
+            padding-right: 180px; /* Adjust padding to prevent overlap with the image */
         }
         nav {
             background-color: #004494;
