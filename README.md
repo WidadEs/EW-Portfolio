@@ -96,7 +96,7 @@
 </head>
 <body>
     <header>
-        <img src="assets/img/profile.jpg" alt="Profile Photo">
+        <img src="assets/img/pf.jpeg" alt="Profile Photo">
         <h1>Widad Essetti</h1>
         <p>AI and Data Science Master's Student</p>
     </header>
